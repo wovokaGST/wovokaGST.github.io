@@ -1,4 +1,5 @@
 
 # Build Settings
-theme: jekyll-theme-minimal
-title: Vamos a ver
+# theme: jekyll-theme-minimal
+remote_theme: "mmistakes/miniaml-mistakes"
+title: "Cuerpos de Oro"

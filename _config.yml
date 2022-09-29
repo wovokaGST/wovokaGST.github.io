@@ -2,4 +2,7 @@
 # Build Settings
 # theme: jekyll-theme-minimal
 remote_theme: "mmistakes/miniaml-mistakes"
-title: "Cuerpos de Oro"
+title: "Cuerpos Cuerpos Cuerpos"
+minimal_mistakes_skin: "neon"
+title_separator: "|"
+description: "Minimal blog on random topics."

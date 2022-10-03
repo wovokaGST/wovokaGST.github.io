@@ -1,8 +1,10 @@
 
 # Build Settings
 # theme: jekyll-theme-minimal
-remote_theme: "mmistakes/miniaml-mistakes"
+remote_theme: mmistakes/minimal-mistakes
 title: "Cuerpos Cuerpos Cuerpos"
 minimal_mistakes_skin: "neon"
 title_separator: "|"
 description: "Minimal blog on random topics."
+# Build settings
+markdown: kramdown

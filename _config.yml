@@ -8,3 +8,10 @@ title: "Cuerpos Cuerpos Cuerpos"
 minimal_mistakes_skin: "neon"
 title_separator: "|"
 description: "Minimal blog on random topics."
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache

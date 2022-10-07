@@ -1,7 +1,7 @@
 
 # Build Settings
 # theme: jekyll-theme-minimal
-remote_theme: minimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll
 inlcude: ["_pages"]
 title: "Cuerpos Cuerpos Cuerpos"
 minimal_mistakes_skin: "neon"

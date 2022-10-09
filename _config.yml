@@ -18,3 +18,13 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true

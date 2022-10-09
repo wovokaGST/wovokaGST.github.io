@@ -3,6 +3,8 @@ title: How to Visualize a Notion Habit Tracker
 layout: single
 permalink: /2022-09-Notion-Visualize-Habit-Tracker/
 published: true
+read_time: true
+share: true
 ---
 
 Hello, just wanted to share a simple workflow I am using to visualize my Habit Tracker page in Notion.

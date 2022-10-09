@@ -8,6 +8,8 @@ title: "Cuerpos Cuerpos Cuerpos"
 minimal_mistakes_skin: "neon"
 title_separator: "|"
 description: "Minimal blog on random topics."
+paginate: 5 # amount of posts to display
+paginate_path: /blog/page:num/
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
